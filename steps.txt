@@ -1,0 +1,8 @@
+
+Phase 1: The First 14 Days – Get Hooked & Build Immediately
+
+Do not open a textbook or watch a 10-hour course. Your only goal right now is to write Python code that makes an AI model do something cool.
+• What to learn: How to call an API (like OpenAI, Anthropic, or Google Gemini) using Python, how to pass a system prompt, and how to handle environment variables securely (using .env files).
+• The First Project (Build in Week 2): The Automated Email/Tweet Customizer.
+	• What it does: Write a Python script that takes a messy article URL or text block, cleans it up, and generates three different variations of a summary: a professional LinkedIn post, a casual tweet thread, and a cold email pitch.
+	• Why it stands out: It teaches you string manipulation, API structures, and basic prompt engineering.
